@@ -25,12 +25,18 @@
     "api-interfaces": {
       "tags": []
     },
+    "products": {
+      "tags": []
+    },
     "test": {
       "tags": []
     },
     "test-e2e": {
       "tags": [],
       "implicitDependencies": ["test"]
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
